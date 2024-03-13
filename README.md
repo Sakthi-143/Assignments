@@ -4,7 +4,7 @@
 This repository contains Python scripts for statistical analysis on various datasets. Each script addresses specific questions or tasks related to descriptive statistics, probability distributions, hypothesis testing, and confidence intervals.
 
 #### Structure:
-
+ 
 1. **Question 7:**
    - Calculates basic statistical measures (mean, median, mode, variance, standard deviation, range) for a given dataset.
    - Utilizes Pandas and NumPy for data manipulation and calculation.
