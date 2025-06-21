@@ -1,4 +1,4 @@
-  # Excelr Assignments
+   # Excelr Assignments
 ### README
 
 This repository contains Python scripts for statistical analysis on various datasets. Each script addresses specific questions or tasks related to descriptive statistics, probability distributions, hypothesis testing, and confidence intervals.
